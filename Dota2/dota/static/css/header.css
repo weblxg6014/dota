@@ -1,0 +1,38 @@
+
+.aspanc a{
+    color:#999 !important;
+}
+.aspanc a:hover{
+    color:#00c0ff !important;
+    text-decoration: none;
+}
+.bgdiv{
+    width: 80px;
+    height: 239px;
+    color:#999 !important;
+}
+
+.aspanc ul{
+    margin-left:.8rem;
+}
+
+.logdiv p,p+span{
+    color:#fff;
+    font-size: 18px;
+}
+.cb{
+    color:#898989;
+    font-size: 12px;
+}
+.logdiv span a{
+    color:red;
+}
+.logdiv span a:hover{
+    color:#00c0ff;
+}
+.mar{
+    margin-left: 18%;
+}
+.z-in{
+    z-index: 999;
+}

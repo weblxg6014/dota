@@ -1,0 +1,19 @@
+.pc{
+    color:#959595;
+}
+.size{
+    font-size: 13px;
+}
+.pac{
+    color:#333;
+}
+.pac a:hover{
+    text-decoration: none !important;
+}
+
+.dark{
+    background: #000
+}
+.imgw{
+    width:  100%;
+}
